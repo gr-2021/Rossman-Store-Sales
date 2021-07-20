@@ -9,3 +9,6 @@
 
 <p>After brainstorming and hypothesis validation, some insights appeared.</p>
 
+
+<p>------------> Project Stoped for a short time ( to focus on Statistic ) ;- ; </p>
+
